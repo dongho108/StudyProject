@@ -53,7 +53,7 @@ HTML, CSS, JS를 사용해 사용자에게 보여지는 화면을 구성하였�
 
 **web application**
 <br>
-  {% include ./_include/youtube.html id="mddxHkabvf0" %}  
+  {% include youtube.html id="mddxHkabvf0" %}  
 <br>
 
 ## Features
