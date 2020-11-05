@@ -53,7 +53,8 @@ HTML, CSS, JS를 사용해 사용자에게 보여지는 화면을 구성하였�
 
 **web application**
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mddxHkabvf0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![web](http://img.youtube.com/vi/mddxHkabvf0.jpg)](https://youtu.be/mddxHkabvf0)
+<br>
 
 ## Features
 
