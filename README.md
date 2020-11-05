@@ -51,10 +51,7 @@ HTML, CSS, JS를 사용해 사용자에게 보여지는 화면을 구성하였�
 <img width="1680" alt="Screen Shot 2020-08-27 at 7 46 52 PM" src="https://user-images.githubusercontent.com/55660691/91433553-68dcd080-e89e-11ea-97c4-a8f12a6c05d5.png">
 <br>
 
-**web application**
-<br>
-  {% include youtube.html id="mddxHkabvf0" %}  
-<br>
+
 
 ## Features
 
